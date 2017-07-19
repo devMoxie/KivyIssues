@@ -1,0 +1,40 @@
+[INFO   ] Logger: Record log in /Users/devmoxie/.kivy/logs/kivy_17-07-18_10.txt
+[INFO   ] Kivy: v1.10.0
+[INFO   ] Python: v2.7.13 (default, Apr  4 2017, 08:44:49) 
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
+[INFO   ] Factory: 194 symbols loaded
+[DEBUG  ] Cache: register <kv.lang> with limit=None, timeout=None
+[DEBUG  ] Cache: register <kv.image> with limit=None, timeout=60
+[DEBUG  ] Cache: register <kv.atlas> with limit=None, timeout=None
+[INFO   ] Image: Providers: img_tex, img_imageio, img_dds, img_sdl2, img_pil, img_gif (img_ffpyplayer ignored)
+[DEBUG  ] Cache: register <kv.texture> with limit=1000, timeout=60
+[DEBUG  ] Cache: register <kv.shader> with limit=1000, timeout=3600
+[INFO   ] Text: Provider: sdl2
+[DEBUG  ] App: Loading kv <./test.kv>
+[DEBUG  ] App: kv <./test.kv> not found
+[INFO   ] OSC: using <multiprocessing> for socket
+[INFO   ] Window: Provider: sdl2
+[INFO   ] GL: Using the "OpenGL ES 2" graphics system
+[DEBUG  ] GL: glShaderBinary is not available
+[INFO   ] GL: Backend used <gl>
+[INFO   ] GL: OpenGL version <2.1 ATI-1.32.25>
+[INFO   ] GL: OpenGL vendor <ATI Technologies Inc.>
+[INFO   ] GL: OpenGL renderer <AMD Radeon R9 M370X OpenGL Engine>
+[INFO   ] GL: OpenGL parsed version: 2, 1
+[INFO   ] GL: Shading version <1.20>
+[INFO   ] GL: Texture max size <16384>
+[INFO   ] GL: Texture max units <16>
+[DEBUG  ] Shader: Fragment compiled successfully
+[DEBUG  ] Shader: Vertex compiled successfully
+[DEBUG  ] ImageImageIO: Load </Users/devmoxie/Desktop/ktest/dist/ktest.app/Contents/MacOS/kivy_install/data/glsl/default.png>
+[INFO   ] Window: auto add sdl2 input provider
+[INFO   ] Window: virtual keyboard not allowed, single mode, not docked
+[DEBUG  ] Resource: add </Library/Fonts> in path list
+[DEBUG  ] Resource: add </Library/Fonts/Microsoft> in path list
+[DEBUG  ] Resource: add </System/Library/Fonts> in path list
+[DEBUG  ] Resource: add </Users/devmoxie/Library/Fonts> in path list
+[DEBUG  ] Resource: add </Users/devmoxie/Desktop/ktest/dist/ktest.app/Contents/MacOS/kivy_install/data/fonts> in path list
+[DEBUG  ] Base: Create provider from mouse
+[INFO   ] Base: Start application main loop
+[INFO   ] GL: NPOT texture support is available
+[INFO   ] Base: Leaving application in progress...

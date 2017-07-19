@@ -1,0 +1,170 @@
+missing module named org - imported by copy
+missing module named _sha512 - imported by hashlib
+missing module named _sha256 - imported by hashlib
+missing module named _md5 - imported by hashlib
+missing module named _sha - imported by hashlib
+missing module named 'org.python' - imported by pickle, xml.sax, setuptools.sandbox
+missing module named _subprocess - imported by subprocess, multiprocessing.forking, multiprocessing.reduction
+missing module named msvcrt - imported by subprocess, multiprocessing.forking, getpass, numpy.distutils.mingw32ccompiler
+missing module named riscosenviron - imported by os
+missing module named riscospath - imported by os
+missing module named riscos - imported by os
+missing module named ce - imported by os
+missing module named _emx_link - imported by os
+missing module named os2 - imported by os
+missing module named nt - imported by os, ntpath
+missing module named pyimod03_importers - imported by /usr/local/lib/python2.7/site-packages/PyInstaller/loader/rthooks/pyi_rth_pkgres.py
+missing module named 'pkg_resources.extern.pyparsing' - imported by pkg_resources._vendor.packaging.requirements, pkg_resources._vendor.packaging.markers
+missing module named netbios - imported by uuid
+missing module named win32wnet - imported by uuid
+missing module named ordereddict - imported by pkg_resources._vendor.pyparsing
+missing module named _thread - imported by pkg_resources._vendor.pyparsing
+missing module named 'com.sun' - imported by pkg_resources._vendor.appdirs
+missing module named com - imported by pkg_resources._vendor.appdirs
+missing module named win32api - imported by kivy.core.window.window_pygame, distutils.msvccompiler, pkg_resources._vendor.appdirs
+missing module named win32com.shell - imported by pkg_resources._vendor.appdirs
+missing module named _winreg - imported by mimetypes, urllib, platform, distutils.msvccompiler, distutils.msvc9compiler, numpy.distutils.cpuinfo, pkg_resources._vendor.appdirs, pygments.formatters.img
+missing module named pkg_resources.extern.packaging - imported by pkg_resources.extern, pkg_resources, setuptools.dist, setuptools.command.egg_info
+missing module named pkg_resources.extern.appdirs - imported by pkg_resources.extern, pkg_resources
+missing module named 'importlib.machinery' - imported by pkg_resources
+missing module named 'pkg_resources.extern.six.moves' - imported by pkg_resources, pkg_resources._vendor.packaging.requirements
+missing module named pkg_resources.extern.six - imported by pkg_resources.extern, pkg_resources
+missing module named _imp - imported by pkg_resources
+missing module named OverrideFrom23 - imported by Carbon.Res
+missing module named SOCKS - imported by ftplib
+missing module named rourl2path - imported by urllib
+missing module named java - imported by xml.sax._exceptions
+missing module named _xmlplus - imported by xml
+missing module named vms_lib - imported by platform
+missing module named 'java.lang' - imported by platform
+missing module named winreg - imported by platform, numpy.distutils.cpuinfo, pygments.formatters.img
+missing module named win32pipe - imported by platform
+missing module named Leap - imported by kivy.input.providers.leapfinger
+missing module named pygame - imported by kivy.input.providers.androidjoystick, kivy.app, kivy.support, kivy.core.audio.audio_pygame, kivy.core.clipboard.clipboard_pygame, kivy.core.image.img_pygame, kivy.core.text.text_pygame, kivy.core.window.window_pygame
+missing module named _dummy_threading - imported by dummy_threading
+missing module named _xmlrpclib - imported by xmlrpclib
+missing module named queue - imported by kivy.compat
+excluded module named Tkinter - imported by PIL.ImageTk
+missing module named tkinter - imported by PIL.ImageTk
+missing module named _imaging_gif - imported by PIL.GifImagePlugin
+missing module named cffi - imported by PIL.Image, PIL.PyAccess
+missing module named builtins - imported by PIL.Image, objc._pycoder, numpy.core.numerictypes, scipy.lib.six, numpy.lib._iotools, numpy.distutils.misc_util, numpy, docutils._compat
+missing module named PIL._imagingagg - imported by PIL, PIL.ImageDraw
+missing module named ios - imported by kivy.metrics, kivy.core.window
+missing module named android - imported by kivy.metrics, kivy.core.window, kivy.base, kivy.input.providers.androidjoystick, kivy.support, kivy.core.clipboard.clipboard_android, kivy.core.window.window_pygame
+missing module named jnius - imported by kivy.metrics, kivy.core.clipboard.clipboard_android, kivy.core.camera.camera_android
+missing module named roman - imported by docutils.writers.manpage, docutils.writers.latex2e
+missing module named pygments.formatters.BBCodeFormatter - imported by pygments.formatters, kivy.uix.codeinput
+missing module named ctags - imported by pygments.formatters.html
+missing module named chardet - imported by pygments.lexer
+missing module named 'urllib.request' - imported by kivy.loader, kivy.core.video.video_gstplayer, kivy.core.audio.audio_gstplayer, pygments.lexers._lua_builtins, numpy.lib._datasource, pygments.lexers._php_builtins, pygments.lexers._postgres_builtins, pygments.lexers._sourcemod_builtins
+missing module named Image - imported by kivy.core.image.img_pil, docutils.writers._html_base, docutils.writers.odf_odt, docutils.parsers.rst.directives.images
+missing module named elementtree - imported by docutils.writers.odf_odt
+missing module named ElementC14N - imported by xml.etree.ElementTree
+excluded module named enchant - imported by kivy.core.spelling.spelling_enchant
+missing module named cv2 - imported by kivy.core.camera.camera_opencv, kivy.core.camera.camera_android
+missing module named numpy.lib.i0 - imported by numpy.lib, numpy.dual
+missing module named numpy.linalg.inv - imported by numpy.linalg, numpy.matrixlib.defmatrix, numpy.lib.polynomial
+missing module named win32con - imported by kivy.core.window.window_pygame, distutils.msvccompiler
+missing module named configparser - imported by kivy.config, numpy.distutils.system_info, numpy.distutils.npy_pkg_config
+missing module named 'numpy_distutils.cpuinfo' - imported by numpy.f2py.diagnose
+missing module named 'numpy_distutils.fcompiler' - imported by numpy.f2py.diagnose
+missing module named setuptools_svn - imported by setuptools.command.egg_info
+missing module named 'setuptools.extern.six.moves' - imported by setuptools.dist, setuptools.command.easy_install, setuptools.sandbox, setuptools.command.setopt, setuptools.package_index, setuptools.ssl_support, setuptools.command.egg_info, setuptools.command.py36compat, setuptools.namespaces
+missing module named 'urllib.parse' - imported by numpy.lib._datasource, setuptools.py26compat, setuptools.package_index
+missing module named 'setuptools.extern.six' - imported by setuptools, setuptools.extension
+missing module named wincertstore - imported by setuptools.ssl_support
+missing module named setuptools.extern.six - imported by setuptools.extern, setuptools.monkey, setuptools.dist, setuptools.depends, setuptools.config, setuptools.command.easy_install, setuptools.sandbox, setuptools.package_index, setuptools.command.egg_info, setuptools.command.sdist, setuptools.command.bdist_egg, setuptools.unicode_utils, setuptools.glob, setuptools.command.develop
+missing module named 'Pyrex.Compiler' - imported by numpy.distutils.command.build_src
+missing module named Pyrex - imported by numpy.distutils.command.build_src
+missing module named 'numpy_distutils.command' - imported by numpy.f2py.diagnose
+missing module named numpy_distutils - imported by numpy.f2py.diagnose
+missing module named numpy.core.number - imported by numpy.core, numpy.testing.utils
+missing module named numpy.lib.iscomplexobj - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.lib.imag - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.lib.real - imported by numpy.lib, numpy.testing.utils
+missing module named numpy.core.signbit - imported by numpy.core, numpy.testing.utils
+missing module named win32pdh - imported by numpy.testing.utils
+missing module named numpy.core.float64 - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.isinf - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.isfinite - imported by numpy.core, numpy.testing.utils, numpy.linalg.linalg
+missing module named numpy.core.isnan - imported by numpy.core, numpy.testing.utils
+missing module named numpy.core.float32 - imported by numpy.core, numpy.testing.utils
+missing module named IronPython - imported by nose.suite
+missing module named clr - imported by nose.suite
+missing module named unittest2 - imported by nose.plugins.skip
+missing module named win32evtlog - imported by logging.handlers
+missing module named win32evtlogutil - imported by logging.handlers
+missing module named numpy.random.randn - imported by numpy.random, scipy
+missing module named numpy.random.rand - imported by numpy.random, scipy
+missing module named __svn_version__ - imported by numpy.f2py.__version__
+missing module named numarray - imported by numpy.distutils.system_info
+missing module named Numeric - imported by numpy.distutils.system_info
+missing module named __config__ - imported by numpy.distutils
+missing module named numpy.core.integer - imported by numpy.core, numpy.fft.helper
+missing module named numpy.core.conjugate - imported by numpy.core, numpy.fft.fftpack
+missing module named numpy.lib.triu - imported by numpy.lib, numpy.linalg.linalg
+missing module named numpy.core.geterrobj - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.maximum - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.double - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.complexfloating - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.multiply - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.inexact - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.add - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.sqrt - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.cdouble - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.single - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.longdouble - imported by numpy.core, numpy.linalg.linalg
+missing module named numpy.core.csingle - imported by numpy.core, numpy.linalg.linalg
+missing module named 'urllib.error' - imported by numpy.lib._datasource
+missing module named copyreg - imported by objc._pycoder, numpy.core
+missing module named numpy.recarray - imported by numpy, numpy.ma.mrecords
+missing module named numpy.dtype - imported by numpy, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.expand_dims - imported by numpy, numpy.ma.core
+missing module named numpy.array - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.iscomplexobj - imported by numpy, numpy.ma.core
+missing module named numpy.ndarray - imported by numpy, numpy.ma.core, numpy.ma.extras, numpy.ma.mrecords, numpy.ctypeslib
+missing module named numpy.amax - imported by numpy, numpy.ma.core
+missing module named numpy.amin - imported by numpy, numpy.ma.core
+missing module named numpy.bool_ - imported by numpy, numpy.ma.core, numpy.ma.mrecords
+missing module named numpy.histogramdd - imported by numpy, numpy.lib.twodim_base
+missing module named numpy.eye - imported by numpy, numpy.core.numeric
+missing module named AppKit.NSMakeRange - imported by AppKit, kivy.core.spelling.spelling_osxappkit
+missing module named AppKit.NSSpellChecker - imported by AppKit, kivy.core.spelling.spelling_osxappkit
+missing module named AppKit.__bundle__ - imported by AppKit, AppKit._nsapp
+missing module named Foundation.NSProcessInfo - imported by Foundation, Foundation._functiondefines
+missing module named Foundation.NSBundle - imported by Foundation, Foundation._functiondefines
+missing module named objc.loadBundle - imported by objc, objc._lazyimport
+missing module named objc.nosuchclass_error - imported by objc, objc._lazyimport
+missing module named objc.getClassList - imported by objc, objc._lazyimport
+missing module named objc.NULL - imported by objc, objc._properties
+missing module named objc._C_BOOL - imported by objc, objc._properties
+runtime module named gi.repository.Gdk - imported by kivy.core.clipboard.clipboard_gtk3, gi.repository
+runtime module named gi.repository.cairo - imported by gi.repository.Gdk
+runtime module named gi.repository.Gtk - imported by kivy.core.clipboard.clipboard_gtk3, gi.repository
+runtime module named gi.repository.GObject - imported by kivy.support, gi.repository, gi.repository.Gst, gi.repository.Gio
+runtime module named gi.repository.GLib - imported by gi.repository.Gst, gi.overrides.GObject, gi.repository.GObject, gi.repository.GModule, gi.overrides.Gio
+runtime module named gi.repository.Gst - imported by kivy.core.camera.camera_gi, gi.repository
+runtime module named gi.repository.Gio - imported by gi.repository.Gst
+runtime module named gi.repository.GModule - imported by gi.repository.Gst
+missing module named 'twisted.internet' - imported by kivy.support
+missing module named gobject - imported by kivy.support
+missing module named win32gui - imported by kivy.core.window.window_pygame
+missing module named 'ffpyplayer.tools' - imported by kivy.core.image.img_ffpyplayer, kivy.core.video.video_ffpyplayer, kivy.core.audio.audio_ffpyplayer
+missing module named 'ffpyplayer.player' - imported by kivy.core.video.video_ffpyplayer, kivy.core.audio.audio_ffpyplayer
+missing module named ffpyplayer - imported by kivy.core.image.img_ffpyplayer, kivy.core.video.video_ffpyplayer, kivy.core.audio.audio_ffpyplayer
+missing module named 'ffpyplayer.pic' - imported by kivy.core.image.img_ffpyplayer
+missing module named 'opencv.highgui' - imported by kivy.core.camera.camera_opencv
+missing module named opencv - imported by kivy.core.camera.camera_opencv
+missing module named kivy.lib.vidcore_lite.egl - imported by kivy.lib.vidcore_lite, kivy.core.window.window_egl_rpi
+missing module named kivy.lib.vidcore_lite.bcm - imported by kivy.lib.vidcore_lite, kivy.core.window.window_egl_rpi
+missing module named win32file - imported by kivy.uix.filechooser
+missing module named 'pygame.scrap' - imported by kivy.core.clipboard.clipboard_pygame
+missing module named dbus - imported by kivy.core.clipboard.clipboard_dbusklipper
+missing module named ffmpeg - imported by kivy.core.video.video_ffmpeg
+missing module named 'android.runnable' - imported by kivy.core.clipboard.clipboard_android
+missing module named android_mixer - imported by kivy.core.audio.audio_pygame
+missing module named 'android.mixer' - imported by kivy.core.audio.audio_pygame
+missing module named 'pyobjus.dylib_manager' - imported by kivy.core.clipboard.clipboard_nspaste, kivy.core.audio.audio_avplayer
+missing module named pyobjus - imported by kivy.core.clipboard.clipboard_nspaste, kivy.core.audio.audio_avplayer
+missing module named smb - imported by kivy.loader
