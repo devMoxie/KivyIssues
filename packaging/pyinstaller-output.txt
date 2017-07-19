@@ -1,0 +1,166 @@
+devmoxie: ktest $ pyinstaller -y --clean --windowed ktest.spec
+43 INFO: PyInstaller: 3.2.1
+43 INFO: Python: 2.7.13
+48 INFO: Platform: Darwin-14.5.0-x86_64-i386-64bit
+54 INFO: UPX is not available.
+54 INFO: Removing temporary files and cleaning cache in /Users/devmoxie/Library/Application Support/pyinstaller
+135 INFO: Extending PYTHONPATH with paths
+['/Users/devmoxie/Desktop/ktest/ktest', '/Users/devmoxie/Desktop/ktest']
+135 INFO: checking Analysis
+135 INFO: Building Analysis because out00-Analysis.toc is non existent
+136 INFO: Initializing module dependency graph...
+137 INFO: Initializing module graph hooks...
+215 INFO: running Analysis out00-Analysis.toc
+222 INFO: Caching module hooks...
+227 INFO: Analyzing ktest/main.py
+1266 INFO: Processing pre-find module path hook   distutils
+1931 INFO: Processing pre-safe import module hook   _xmlplus
+5285 INFO: Loading module hooks...
+5285 INFO: Loading module hook "hook-distutils.py"...
+5286 INFO: Loading module hook "hook-xml.py"...
+5379 INFO: Loading module hook "hook-PIL.py"...
+5380 INFO: Import to be excluded not found: 'FixTk'
+5381 INFO: Excluding import 'Tkinter'
+5381 INFO: Import to be excluded not found: 'PyQt5'
+5381 INFO: Import to be excluded not found: 'PySide'
+5382 INFO: Import to be excluded not found: 'PyQt4'
+5382 INFO: Loading module hook "hook-httplib.py"...
+5382 INFO: Loading module hook "hook-encodings.py"...
+5717 INFO: Loading module hook "hook-kivy.py"...
+[INFO   ] [Logger      ] Record log in /Users/devmoxie/.kivy/logs/kivy_17-07-18_7.txt
+5731 INFO: [Logger      ] Record log in /Users/devmoxie/.kivy/logs/kivy_17-07-18_7.txt
+[INFO   ] [Kivy        ] v1.10.0
+5730 INFO: [Kivy        ] v1.10.0
+[INFO   ] [Python      ] v2.7.13 (default, Apr  4 2017, 08:44:49)
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
+5731 INFO: [Python      ] v2.7.13 (default, Apr  4 2017, 08:44:49)
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
+[INFO   ] [Factory     ] 194 symbols loaded
+5733 INFO: [Factory     ] 194 symbols loaded
+[INFO   ] [Logger      ] Record log in /Users/devmoxie/.kivy/logs/kivy_17-07-18_8.txt
+[INFO   ] [Kivy        ] v1.10.0
+[INFO   ] [Python      ] v2.7.13 (default, Apr  4 2017, 08:44:49)
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
+[INFO   ] [Image       ] Providers: img_tex, img_imageio, img_dds, img_sdl2, img_pil, img_gif (img_ffpyplayer ignored)
+[INFO   ] [Logger      ] Record log in /Users/devmoxie/.kivy/logs/kivy_17-07-18_9.txt
+[INFO   ] [Kivy        ] v1.10.0
+[INFO   ] [Python      ] v2.7.13 (default, Apr  4 2017, 08:44:49)
+[GCC 4.2.1 Compatible Apple LLVM 7.0.2 (clang-700.1.81)]
+[INFO   ] [AudioGstplayer] Using Gstreamer 1.10.4.0
+[INFO   ] [Audio       ] Providers: audio_gstplayer, audio_sdl2 (audio_ffpyplayer, audio_avplayer ignored)
+[INFO   ] [Image       ] Providers: img_tex, img_imageio, img_dds, img_sdl2, img_pil, img_gif (img_ffpyplayer ignored)
+[INFO   ] [Camera      ] Provider: avfoundation
+[INFO   ] [Clipboard   ] Provider: sdl2(['clipboard_nspaste'] ignored)
+[INFO   ] [Factory     ] 194 symbols loaded
+[INFO   ] [OSC         ] using <multiprocessing> for socket
+[INFO   ] [Window      ] Provider: sdl2
+[INFO   ] [GL          ] Using the "OpenGL ES 2" graphics system
+[INFO   ] [GL          ] Backend used <gl>
+[INFO   ] [GL          ] OpenGL version <2.1 ATI-1.32.25>
+[INFO   ] [GL          ] OpenGL vendor <ATI Technologies Inc.>
+[INFO   ] [GL          ] OpenGL renderer <AMD Radeon R9 M370X OpenGL Engine>
+[INFO   ] [GL          ] OpenGL parsed version: 2, 1
+[INFO   ] [GL          ] Shading version <1.20>
+[INFO   ] [GL          ] Texture max size <16384>
+[INFO   ] [GL          ] Texture max units <16>
+[INFO   ] [Window      ] auto add sdl2 input provider
+[INFO   ] [Window      ] virtual keyboard not allowed, single mode, not docked
+[INFO   ] [Spelling    ] Provider: osxappkit(['spelling_enchant'] ignored)
+[INFO   ] [Text        ] Provider: sdl2
+[INFO   ] [VideoGstplayer] Using Gstreamer 1.10.4.0
+[INFO   ] [Video       ] Provider: gstplayer
+6837 INFO: Processing pre-safe import module hook   gi.repository.Gst
+6841 INFO: Processing pre-safe import module hook   gi.repository.GObject
+8790 INFO: Processing pre-safe import module hook   gi.repository.Gtk
+8791 INFO: Processing pre-safe import module hook   gi.repository.Gdk
+12797 INFO: Processing pre-find module path hook   site
+12797 INFO: site: retargeting to fake-dir '/usr/local/lib/python2.7/site-packages/PyInstaller/fake-modules'
+15015 INFO: Excluding import 'Tkinter'
+15021 INFO: Excluding import 'twisted'
+15025 WARNING:   Removing import kivy.support from module twisted
+15027 INFO: Excluding import '_tkinter'
+15032 INFO: Loading module hook "hook-PIL.Image.py"...
+15325 INFO: Loading module hook "hook-xml.dom.domreg.py"...
+15326 INFO: Loading module hook "hook-pkg_resources.py"...
+15721 INFO: Processing pre-safe import module hook   win32com
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+ImportError: No module named win32com
+15745 INFO: Processing pre-safe import module hook   win32com
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+ImportError: No module named win32com
+15933 INFO: Loading module hook "hook-certifi.py"...
+15934 INFO: Loading module hook "hook-setuptools.py"...
+15935 INFO: Loading module hook "hook-PIL.SpiderImagePlugin.py"...
+15938 INFO: Import to be excluded not found: 'FixTk'
+15939 INFO: Excluding import 'Tkinter'
+15940 INFO: Loading module hook "hook-xml.etree.cElementTree.py"...
+15940 INFO: Loading module hook "hook-numpy.core.py"...
+16027 INFO: Loading module hook "hook-sysconfig.py"...
+16029 INFO: Loading module hook "hook-gi.py"...
+16038 INFO: Loading module hook "hook-gi.repository.Gst.py"...
+16874 INFO: Processing pre-safe import module hook   gi.repository.GModule
+16875 INFO: Processing pre-safe import module hook   gi.repository.GLib
+16875 INFO: Processing pre-safe import module hook   gi.repository.Gio
+16876 INFO: Loading module hook "hook-pydoc.py"...
+16880 INFO: Excluding import 'Tkinter'
+16881 WARNING:   Removing import pydoc from module Tkinter
+16881 INFO: Loading module hook "hook-pygments.py"...
+18117 INFO: Loading module hook "hook-gi.repository.Gdk.py"...
+Traceback (most recent call last):
+  File "<string>", line 8, in <module>
+GLib.Error: g-irepository-error-quark: Typelib file for namespace 'Gdk', version '3.0' not found (0)
+18171 ERROR: gi repository 'GIRepository 2.0' not found. Please make sure libgirepository-gir2.0 resp. lib64girepository-gir2.0 is installed.
+18174 INFO: Processing pre-safe import module hook   gi.repository.cairo
+18175 INFO: Loading module hook "hook-gi.repository.cairo.py"...
+18276 INFO: Loading module hook "hook-gi.repository.Gtk.py"...
+Traceback (most recent call last):
+  File "<string>", line 8, in <module>
+GLib.Error: g-irepository-error-quark: Typelib file for namespace 'Gtk', version '3.0' not found (0)
+18330 ERROR: gi repository 'GIRepository 2.0' not found. Please make sure libgirepository-gir2.0 resp. lib64girepository-gir2.0 is installed.
+18481 INFO: Loading module hook "hook-gi.repository.GObject.py"...
+18771 INFO: Loading module hook "hook-docutils.py"...
+20113 INFO: Loading module hook "hook-gi.repository.GModule.py"...
+20260 INFO: Loading module hook "hook-gi.repository.Gio.py"...
+21041 INFO: Loading module hook "hook-gi.repository.GLib.py"...
+21417 INFO: Looking for ctypes DLLs
+21432 WARNING: library libmtdev.so.1 required via ctypes not found
+21444 INFO: Analyzing run-time hooks ...
+21455 INFO: Including run-time hook 'pyi_rth_kivy.py'
+21456 INFO: Including run-time hook 'pyi_rth_pkgres.py'
+21459 INFO: Including run-time hook 'pyi_rth_gtk.py'
+21460 INFO: Including run-time hook 'pyi_rth_glib.py'
+21461 INFO: Including run-time hook 'pyi_rth_gstreamer.py'
+21462 INFO: Including run-time hook 'pyi_rth_gio.py'
+21463 INFO: Including run-time hook 'pyi_rth_gi.py'
+21463 INFO: Including run-time hook 'pyi_rth_gstreamer.py'
+21482 INFO: Looking for dynamic libraries
+21914 INFO: Looking for eggs
+21914 INFO: Using Python library /usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/Python
+21922 INFO: Warnings written to /Users/devmoxie/Desktop/ktest/build/ktest/warnktest.txt
+22275 INFO: checking PYZ
+22275 INFO: Building PYZ because out00-PYZ.toc is non existent
+22275 INFO: Building PYZ (ZlibArchive) /Users/devmoxie/Desktop/ktest/build/ktest/out00-PYZ.pyz
+23472 INFO: Building PYZ (ZlibArchive) /Users/devmoxie/Desktop/ktest/build/ktest/out00-PYZ.pyz completed successfully.
+23718 INFO: checking PKG
+23719 INFO: Building PKG because out00-PKG.toc is non existent
+23719 INFO: Building PKG (CArchive) out00-PKG.pkg
+23734 INFO: Building PKG (CArchive) out00-PKG.pkg completed successfully.
+23738 INFO: Bootloader /usr/local/lib/python2.7/site-packages/PyInstaller/bootloader/Darwin-64bit/runw
+23739 INFO: checking EXE
+23739 INFO: Building EXE because out00-EXE.toc is non existent
+23739 INFO: Building EXE from out00-EXE.toc
+23739 INFO: Appending archive to EXE /Users/devmoxie/Desktop/ktest/build/ktest/ktest
+23747 INFO: Fixing EXE for code signing /Users/devmoxie/Desktop/ktest/build/ktest/ktest
+23750 INFO: Building EXE from out00-EXE.toc completed successfully.
+23754 INFO: checking COLLECT
+23754 INFO: Building COLLECT because out00-COLLECT.toc is non existent
+23754 INFO: Removing dir /Users/devmoxie/Desktop/ktest/dist/ktest
+24011 INFO: Building COLLECT out00-COLLECT.toc
+26774 INFO: Building COLLECT out00-COLLECT.toc completed successfully.
+26882 INFO: checking BUNDLE
+26882 INFO: Building BUNDLE because out00-BUNDLE.toc is non existent
+26882 INFO: Removing dir /Users/devmoxie/Desktop/ktest/dist/ktest.app
+27124 INFO: Building BUNDLE out00-BUNDLE.toc
+29099 INFO: moving BUNDLE data files to Resource directory
